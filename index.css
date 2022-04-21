@@ -66,3 +66,9 @@ div.content {
 .content {
     text-align: center;
 }
+
+.card-footer a {
+    color: #333;
+    background-color: #FFFFFF;
+    border-radius: 20px;
+}
